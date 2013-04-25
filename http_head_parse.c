@@ -33,5 +33,3 @@ static int line_length(char *str)
     }
     return 0;
 }
-
- http_head_parse(buffer)
